@@ -11,15 +11,15 @@ def shipping_manifest
 
 end
 
-the_manifest = {"whale bones corset", 
-                "whale bones corset", 
-                "whale bones corset", 
-                "whale bones corset", 
+the_manifest = {"whale bones corset",
                 "whale bones corset",
-                "porcelain vase", 
+                "whale bones corset",
+                "whale bones corset",
+                "whale bones corset",
                 "porcelain vase",
-                "oil painting", 
-                "oil painting", 
+                "porcelain vase",
+                "oil painting",
+                "oil painting",
                 "oil painting"
                 }
 
