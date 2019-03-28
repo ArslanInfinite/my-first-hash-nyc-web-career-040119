@@ -11,6 +11,11 @@ def shipping_manifest
 
 end
 
+the_manifest = {"whale bones corsets", "whale bones corsets", "whale bones corsets", "whale bones corsets", "whale bones corsets",
+                "porcelain vases", "porcelain vases"
+                "oil paintings", "oil paintings", "oil paintings"
+                }
+
 def retrieval
   shipping_manifest = {
                   "whale bone corsets" => 5,
