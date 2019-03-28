@@ -1,5 +1,5 @@
 def my_hash
-  Iron_Man = {"name" => "Tony Stark", "age" => 49, "team" => "Avengers"}
+  {"name" => "Tony Stark", "age" => 49, "team" => "Avengers"}
 end
 
 
